@@ -7,5 +7,5 @@ route = "curl.ssshinchannn.workers.dev/*"
 compatibility_date = "2022-05-03"
 
 kv_namespaces = [ 
-  { binding = "shortlink", id = "dd09e4f4fa9a4fa7842df56d5a7a91c7" }
+  { binding = "shortlink", id = "8bfb4f4a5515433aa37fde7d78ea6d2d" }
 ]
