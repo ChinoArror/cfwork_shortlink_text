@@ -3,7 +3,7 @@ type = "webpack"
 
 account_id = "3903d3554a2e7453ce23f44bc989fe6b"
 workers_dev = true
-route = "curl.ssshinchannn.workers.dev/*"
+route = "curl.ssshinchannn.workers.dev/zT5zRb2CmGwOkMULuvtvF6X2-eKlko7L6g_kUrE0"
 compatibility_date = "2022-05-03"
 
 kv_namespaces = [ 
