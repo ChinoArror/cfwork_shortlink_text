@@ -1,7 +1,7 @@
 name = "shortlink"
 type = "webpack"
 
-account_id = "97ad16f52fc63a5b8dcefd19e69d6ee3"
+account_id = "3903d3554a2e7453ce23f44bc989fe6b"
 workers_dev = true
 route = "curl.ssshinchannn.workers.dev/*"
 compatibility_date = "2022-05-03"
